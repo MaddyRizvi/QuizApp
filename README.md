@@ -60,7 +60,8 @@ The MySQL database contains a table `questions` with the following structure:
 | `correct_answer` | VARCHAR(255) | Correct option |
 
 ## Screenshots
-*(Include screenshots of the app UI here)*
+![Image](https://github.com/user-attachments/assets/1275cce3-4fed-4491-a54f-5f1d18db9e3e)
+![Image](https://github.com/user-attachments/assets/3723ce84-278e-42a9-a88e-2e157f4807bf)
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
