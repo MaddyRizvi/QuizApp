@@ -29,7 +29,6 @@ A simple **Quiz Application** built using **Java (Android Studio)** for the fron
 ### Steps
 
 #### 1. Clone the Repository
-```sh
 git clone https://github.com/MaddyRizvi
 
 
@@ -73,4 +72,5 @@ This project is available for public use; no license has been specified.
 ---
 
 ### Developed by **Maddy Rizvi** 🚀
+
 
